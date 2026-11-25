@@ -1,0 +1,8 @@
+Copy your final, test-evaluated AdaBoost model here as:
+best_model.joblib
+
+If the saved estimator expects standardized features and does not already
+include a scaler pipeline, also copy the matching fitted scaler as:
+scaler.joblib
+
+Do not use an intermediate tuning model as the final model.
